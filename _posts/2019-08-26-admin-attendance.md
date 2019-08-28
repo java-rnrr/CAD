@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Admin: Attendance"
-description: Attendance for the software training class
+description: Attendance for the Onshape CAD training class
 ---
 
 ### Date: Monday August 26th, 2019
