@@ -1,1 +1,22 @@
+markdown: kramdown
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vagrant", ".vagrant", "Vagrantfile"]
+highlighter: rouge
+
+permalink: /:title
+baseurl: /CAD
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title: CAD Tutorial
+tagline: CAD Tutorials
+
+author:
+  name:  FTC Robotics
+  email: definitely.real@rocknrollrobots25.com
+  github: java-rrnr/CAD
+
+paginate: 1
+
 theme: jekyll-theme-slate
