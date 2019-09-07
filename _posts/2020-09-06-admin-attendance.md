@@ -6,6 +6,7 @@ description: Attendance for the Onshape CAD training class
 
 ### Date: Monday August 26th, 2019
 
+|                 |  Intro  | 2D Sketch|  Import |
 |Student          |x/xx/2019|x/xx/2019|x/xx/2019|
 |     ---         |  :---:  |  :---:  |  :---:  |
 |Alexandra McGowan|         |         |         |
